@@ -1,6 +1,4 @@
-
-
-
+//GitHub Pages Update
 d3.csv('coffee-house-chains.csv', d3.autoType).then(data=>{
     let type = document.querySelector("#group-by");
     let direction = 0;
